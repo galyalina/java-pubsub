@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.110.4](https://www.github.com/googleapis/java-pubsub/compare/v1.110.3...v1.110.4) (2021-01-14)
+
+
+### Bug Fixes
+
+* fix flakiness in subscriberIT integration test ([#476](https://www.github.com/googleapis/java-pubsub/issues/476)) ([d981b4e](https://www.github.com/googleapis/java-pubsub/commit/d981b4ec7ba905898fcc5e17453166d9d995bdb4))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.18.0 ([#482](https://www.github.com/googleapis/java-pubsub/issues/482)) ([260eca5](https://www.github.com/googleapis/java-pubsub/commit/260eca5ea34296d3722707ce7199845c6f2e8526))
+
 ### [1.110.3](https://www.github.com/googleapis/java-pubsub/compare/v1.110.2...v1.110.3) (2020-12-15)
 
 
